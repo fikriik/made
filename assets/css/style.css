@@ -870,7 +870,7 @@ Home Section style
 ==================*/
 
 .home{
-    background: url(../images/home-bg.jpg) no-repeat scroll  center center;
+    background: url(../images/2.jpg) no-repeat scroll  center center;
     background-size: cover;
     position: relative;
     padding-top: 300px;
@@ -1009,11 +1009,6 @@ Featured section style
     border-radius: 4px 4px 0px 0px;
 }
 
-.business_slid .business_items{
-    background-color: #fff;
-    margin: 0;
-}
-
 .business_slid .slick-arrow{
     position: absolute;
     top:29%;
@@ -1025,7 +1020,6 @@ Featured section style
     text-align: center;
     font-size:20px;
     transition: all 0.6s;
-    color:#fff;
 }
 .business_slid .nextprevleft{
     left:5.9%;
